@@ -1,2 +1,6 @@
 # catatan-php-mysql
-Journey of me at learning PHP &amp; My SQL
+My Journey on learning PHP programming
+
+Yusuf Hidayat
+Manajemen Informatika 23
+2357401007
