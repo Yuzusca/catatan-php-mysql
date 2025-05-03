@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 
-/*punya Yusuf Hidayat*/
+/* Punya Yusuf Hidayat */
 ?>
 
 <form method="POST">
